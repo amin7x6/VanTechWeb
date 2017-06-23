@@ -1,4 +1,4 @@
-VanTechWeb
+## VanTechWeb
 
 Group project I worked on with 6 members. We were tasked with creating a hub for Vancouver tech companies where users can create accounts, view listings for tech companies. This website was built using Ruby on Rails, Materialize CSS, JavaScript, HTML and jQuery.
 
