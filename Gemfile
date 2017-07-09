@@ -29,15 +29,10 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 gem 'devise'
-
 gem 'materialize-sass'
-
 gem 'carrierwave', '~> 1.0'
-
 gem 'chosen-rails'
-
 gem 'faker', github: 'stympy/faker'
-
 gem 'ransack', github: 'activerecord-hackery/ransack'
 gem 'administrate', '0.4.0'
 
